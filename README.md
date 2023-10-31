@@ -1,28 +1,22 @@
-# tag-input-vue
+# Tag Input
 
-This template should help get you started developing with Vue 3 in Vite.
+Esta aplicación es una practica utilizando Vue 3, con Option API.
 
-## Recommended IDE Setup
+Es un <span title="Entrada de Texto" style="color:gray;">Input Text</span>, en el que puedes crear Tags de colores aleatorios.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Configuración del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Iniciar Proyecto en modo desarrollador
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar y minificar para producción
 
 ```sh
 npm run build
