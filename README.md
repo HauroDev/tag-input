@@ -4,6 +4,8 @@ Esta aplicación es una practica utilizando Vue 3, con Option API.
 
 Es un <span title="Entrada de Texto" style="color:gray;">Input Text</span>, en el que puedes crear Tags de colores aleatorios.
 
+![Portada](./images/aplication-front.png)
+
 ## Configuración del proyecto
 
 ```sh
